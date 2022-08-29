@@ -1,4 +1,4 @@
-#!/usr/bin/env bash
+#!/bin/bash
 
 # set -e: exit asap if a command exits with a non-zero status
 set -e
